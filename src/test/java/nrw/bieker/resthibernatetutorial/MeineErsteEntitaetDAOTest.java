@@ -20,7 +20,6 @@ import nrw.bieker.resthibernatetutorial.entity.MeineErsteEntitaetDAO;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-
 public class MeineErsteEntitaetDAOTest {
 	
 	@Autowired
